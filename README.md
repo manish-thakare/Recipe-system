@@ -21,4 +21,3 @@ Result Page:
 Guide page:
  ![image](https://github.com/manish-thakare/Recipe-system/assets/82271000/2ceeb2c7-b5c5-490b-b12b-aedde855957b)
 •	It provides some basic information to user regarding how to use the app.
-
